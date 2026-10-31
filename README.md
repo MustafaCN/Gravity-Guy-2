@@ -1,1 +1,5 @@
+Gravity Guy 2 Ported Android New SDK
+Android 12 and Android 16, 17 tested.
+
+
 <img width="496" height="310" alt="ktx8JrzmBc3V6mrcA36gGg0hZLcd-SFTWM1o7kJL7-yfEWCxAzoFr5ZMOLon7Qkfcw=w720-h310 (1)" src="https://github.com/user-attachments/assets/adca78d9-7282-4802-93c3-d1a45ac8b967" />
